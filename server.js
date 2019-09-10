@@ -14,7 +14,7 @@ const typeDefs = `
 
 const resolvers = {
   Query: {
-    greeting: () => 'Hello World!'
+    greeting: () => 'Coming in hot from the backend!'
   }
 }
 
